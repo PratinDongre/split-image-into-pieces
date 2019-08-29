@@ -5,8 +5,9 @@ Get image split into number of colums and rows you want.
 # Add component to your page
 <pre>&lt;<span>app-puzzle</span><span></span></span>&gt;&lt;/<span>app-puzzle</span>&gt;</pre>
 
-# Result
-![Image of split image]()
+# Befor and after - result
+![Image of split image](https://raw.githubusercontent.com/sumedha-prithyani/split-image-into-pieces/master/org.jpg)
+![Image of split image](https://raw.githubusercontent.com/sumedha-prithyani/split-image-into-pieces/master/splitImag.png)
 
 # colums and rows
 If you want, you can change by updating value of colum and row. Initial value are given as 4 for colum and 3 row. You can update in PuzzleComponent - puzzle.component.ts
